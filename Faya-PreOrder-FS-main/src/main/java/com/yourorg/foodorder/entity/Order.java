@@ -1,4 +1,4 @@
-package com.yourorg.foodorder.entity;
+package com.foodorder.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
